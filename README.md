@@ -871,10 +871,6 @@ You may use, modify, and improve the project for learning and non-commercial aca
 Computer Engineering
 HITEC University, Taxila
 
-**Muhammad Reyan**
-Computer Engineering
-HITEC University, Taxila
-
 ---
 
 # ✅ Conclusion
